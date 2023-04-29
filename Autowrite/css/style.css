@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;  
+  box-sizing: border-box;
+}
+
+.auto-text{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+}
+
+.auto-text h1{
+    font-family: 'Poppins';
+    font-size: 35px; 
+}
+
+.auto-text span{
+    color: blue;
+    font-family: 'Poppins';
+    font-size: 35px; 
+}
+
